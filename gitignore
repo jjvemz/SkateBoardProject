@@ -20,6 +20,8 @@
 Skateboard/DerivedDataCache/
 Skateboard/Intermediate/
 Skateboard/Saved/
+Skateboard/__ExternalActors__/
+Skateboard/__ExternalObjects__/
 
 # Fortran module files
 *.mod
